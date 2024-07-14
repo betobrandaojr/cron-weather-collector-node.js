@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { WeatherData } from '../entities/WeatherData';
+import { WeatherData } from '../../entities/WeatherData';
 
 const API_URL = 'https://jsonplaceholder.typicode.com/posts';
 
