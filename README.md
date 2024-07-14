@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é uma prova de conceito (POC) para um serviço assíncrono que coleta dados de uma API pública de previsão do tempo a cada minuto e os armazena em um banco de dados PostgreSQL. Além disso, os dados coletados são enviados para uma API pública gratuita para testes de envio de dados.
+Este projeto é um serviço assíncrono que coleta dados de uma API pública de previsão do tempo a cada minuto os armazena em um banco de dados PostgreSQL. Além disso, os dados coletados são enviados para uma API pública gratuita para testes de envio de dados.
 
 ## Pré-requisitos
 
