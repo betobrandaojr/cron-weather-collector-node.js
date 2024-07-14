@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { WeatherData } from '../entities/WeatherData';
+import { WeatherData } from '../../entities/WeatherData';
 
 const fetchWeatherData = async (): Promise<WeatherData | null> => {
     try {
