@@ -1,4 +1,4 @@
-# Projeto POC de Serviço Assíncrono de Coleta de Dados Meteorológicos
+# Serviço Assíncrono de Coleta de Dados Meteorológicos
 
 ## Descrição do Projeto
 
